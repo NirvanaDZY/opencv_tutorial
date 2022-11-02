@@ -1,4 +1,4 @@
-
+# 图像特征的提取
 import cv2
 
 image = cv2.imread("opencv_logo.jpg")
